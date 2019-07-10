@@ -103,8 +103,8 @@ header.inner {
 
 /* Home Search */
 .search-wrap {
-  background: url("../img/showcase.jpg") no-repeat center center fixed / cover;
-  height: 100vh;
+  background: url("../img/back3.png") no-repeat center center fixed / cover;
+  height: 150vh;
   width: 100%;
   padding: 1.3rem 3rem;
   display: flex;
