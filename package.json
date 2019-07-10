@@ -1,0 +1,24 @@
+{
+  "name": "jobsearchingapp",
+  "version": "1.0.0",
+  "description": "web app for programmers to find a job.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Yuun Lim",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql2": "^1.6.5",
+    "pg": "^7.11.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.9.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
